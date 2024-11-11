@@ -1,0 +1,429 @@
+{
+  "entries": [
+    {
+      "id": "1",
+      "name1": "Fashion",
+      "country": "Nepal",
+      "state": "Province 1",
+      "city": "Biratnagar",
+      "week": "Week 3",
+      "option": "Latest, Future"
+    },
+    {
+      "id": "2",
+      "name1": "Electronics",
+      "country": "Bhutan",
+      "state": "Thimphu",
+      "city": "Changangkha",
+      "week": "Week 2",
+      "option": "Latest, Top Rated"
+    },
+    {
+      "id": "3",
+      "name1": "Beauty",
+      "country": "Pakistan",
+      "state": "Sindh",
+      "city": "Karachi",
+      "week": "Week 6",
+      "option": "Future"
+    },
+    {
+      "id": "4",
+      "name1": "Fashion",
+      "country": "Bhutan",
+      "state": "Punakha",
+      "city": "Lingmukha",
+      "week": "Week 2",
+      "option": "Latest"
+    },
+    {
+      "id": "5",
+      "name1": "Electronics",
+      "country": "Bhutan",
+      "state": "Bumthang",
+      "city": "Chokhor",
+      "week": "Week 7",
+      "option": "Future, Latest, Top Rated"
+    },
+    {
+      "id": "6",
+      "name1": "Beauty",
+      "country": "Bhutan",
+      "state": "Punakha",
+      "city": "Lingmukha",
+      "week": "Week 2",
+      "option": "Latest, Future"
+    },
+    {
+      "id": "7",
+      "name1": "Fashion",
+      "country": "Pakistan",
+      "state": "Gilgit-Baltistan",
+      "city": "Chilas",
+      "week": "Week 3",
+      "option": "Future, Top Rated"
+    },
+    {
+      "id": "8",
+      "name1": "Electronics",
+      "country": "Nepal",
+      "state": "Gandaki",
+      "city": "Baglung",
+      "week": "Week 5",
+      "option": "Latest, Top Rated, Future"
+    },
+    {
+      "id": "9",
+      "name1": "Fashion",
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa",
+      "city": "Abbottabad",
+      "week": "Week 11",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "10",
+      "name1": "Fashion",
+      "country": "Bhutan",
+      "state": "Thimphu",
+      "city": "lungtenphu",
+      "week": "Week 3",
+      "option": "Latest"
+    },
+    {
+      "id": "11",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 1",
+      "option": "Latest"
+    },
+    {
+      "id": "12",
+      "name1": "Electronics",
+      "country": "Pakistan",
+      "state": "Gilgit-Baltistan",
+      "city": "Skardu",
+      "week": "Week 9",
+      "option": "Latest, Future"
+    },
+    {
+      "id": "13",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Kathmandu",
+      "week": "Week 5",
+      "option": "Latest, Top Rated, Future"
+    },
+    {
+      "id": "14",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Sudurpashchim",
+      "city": "Dipayal",
+      "week": "Week 11",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "15",
+      "name1": "Fashion",
+      "country": "Pakistan",
+      "state": "Sindh",
+      "city": "Hyderabad",
+      "week": "Week 7",
+      "option": "Latest, Top Rated"
+    },
+    {
+      "id": "16",
+      "name1": "Beauty",
+      "country": "Bhutan",
+      "state": "Paro",
+      "city": "Shari",
+      "week": "Week 3",
+      "option": "Latest, Top Rated"
+    },
+    {
+      "id": "17",
+      "name1": "Fashion",
+      "country": "Nepal",
+      "state": "Province 5",
+      "city": "Bhairahawa",
+      "week": "Week 7",
+      "option": "Latest"
+    },
+    {
+      "id": "18",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Sudurpashchim",
+      "city": "Dhangadhi",
+      "week": "Week 12",
+      "option": "Top Rated"
+    },
+    {
+      "id": "19",
+      "name1": "Beauty",
+      "country": "Bhutan",
+      "state": "Punakha",
+      "city": "Talo",
+      "week": "Week 1",
+      "option": "Latest, Future"
+    },
+    {
+      "id": "20",
+      "name1": "Fashion",
+      "country": "Bhutan",
+      "state": "Bumthang",
+      "city": "Chokhor",
+      "week": "Week 4",
+      "option": "Latest"
+    },
+    {
+      "id": "21",
+      "name1": "Electronics",
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa",
+      "city": "Mardan",
+      "week": "Week 9",
+      "option": "Top Rated"
+    },
+    {
+      "id": "22",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Province 2",
+      "city": "Birgunj",
+      "week": "Week 7",
+      "option": "Future"
+    },
+    {
+      "id": "23",
+      "name1": "Electronics",
+      "country": "Pakistan",
+      "state": "Punjab",
+      "city": "Rawalpindi",
+      "week": "Week 7",
+      "option": "Latest"
+    },
+    {
+      "id": "24",
+      "name1": "Beauty",
+      "country": "Pakistan",
+      "state": "Punjab",
+      "city": "Lahore",
+      "week": "Week 7",
+      "option": "Latest, Top Rated"
+    },
+    {
+      "id": "25",
+      "name1": "Beauty",
+      "country": "Bhutan",
+      "state": "Chhukha",
+      "city": "Jakar",
+      "week": "Week 2",
+      "option": "Latest"
+    },
+    {
+      "id": 26,
+      "name1": "Fashion",
+      "country": "Nepal",
+      "state": "Province 2",
+      "city": "Janakpur",
+      "week": "Week 7",
+      "option": [
+        "Latest"
+      ]
+    },
+    {
+      "id": "28",
+      "name1": "Electronics",
+      "country": "Bhutan",
+      "state": "Paro",
+      "city": "Drugyel Dzong",
+      "week": "Week 7",
+      "option": "Latest, Top Rated"
+    },
+    {
+      "id": "29",
+      "name1": "Fashion",
+      "country": "Nepal",
+      "state": "Province 1",
+      "city": "Bhairahawa",
+      "week": "Week 10",
+      "option": "Latest"
+    },
+    {
+      "id": "30",
+      "name1": "Electronics",
+      "country": "Bhutan",
+      "state": "Paro",
+      "city": "Drugyel Dzong",
+      "week": "Week 8",
+      "option": "Top Rated"
+    },
+    {
+      "id": "31",
+      "name1": "Electronics",
+      "country": "Bhutan",
+      "state": "Paro",
+      "city": "Drugyel Dzong",
+      "week": "Week 2",
+      "option": "Future"
+    },
+    {
+      "id": "32",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Kathmandu",
+      "week": "Week 5",
+      "option": "Latest, Top Rated, Future"
+    },
+    {
+      "id": "33",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "34",
+      "name1": "Fashion",
+      "country": "Nepal",
+      "state": "Gandaki",
+      "city": "Garkha",
+      "week": "Week 9",
+      "option": "Latest"
+    },
+    {
+      "id": "35",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "36",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "37",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "38",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "39",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "40",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "41",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "42",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "43",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "44",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Bagmati",
+      "city": "Lalitpur",
+      "week": "Week 3",
+      "option": "Future, Latest"
+    },
+    {
+      "id": "45",
+      "name1": "Electronics",
+      "country": "Nepal",
+      "state": "Karnali",
+      "city": "Jumla",
+      "week": "Week 6",
+      "option": "Latest, Top Rated"
+    },
+    {
+      "id": "46",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Province 1",
+      "city": "Dharan",
+      "week": "Week 6",
+      "option": "Latest, Top Rated"
+    },
+    {
+      "id": "47",
+      "name1": "Beauty",
+      "country": "Nepal",
+      "state": "Province 1",
+      "city": "Biratnagar",
+      "week": "Week 6",
+      "option": "Latest, Top Rated"
+    },
+    {
+      "id": "48",
+      "name1": "Beauty",
+      "country": "Bhutan",
+      "state": "Punakha",
+      "city": "Guma",
+      "week": "Week 1",
+      "option": "Latest, Future"
+    }
+  ]
+}

@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+Project Name : Form & Table Filter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tools are : Reactjs, Tailwindcss
 
-## Available Scripts
+About : Based on need, country, city, state, week it give the data 
 
-In the project directory, you can run:
+Purpose: It allows users to filter data based on criteria (e.g., need, country, state, city, and week) and view results with pagination.
 
-### `npm start`
+Components:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    FormList (displays form)
+    AboutForm (input form to add tasks)
+    FilterControls (filters from by priority/status)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Need Filters: 
 
-### `npm test`
+    1. Need: Users specify a particular need category (e.g., "Fashion" ,"Beauty","Electronics"). 
+    2. Country, State, City: Geographic filters to refine results by location. 
+    3. Week: A week-based filter allowing users to select specific weeks or a range up to a given week.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Search and Filtering:
 
-### `npm run build`
+    4. Search Button: When clicked, it displays filtered results based on selected criteria. 
+    5. Default Selection: Initially shows results for "Fashion" as need and "Week 3" by default. 
+    6. Filtering: Results update based on each filter; for example, selecting "Week 4" shows data for Weeks 1 through 4.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Pagination: 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    7. Items Per Page: Displays 10 results per page. 
+    9. Page Navigation: Users can navigate through pages to view all matching results. 
+    10. Page Reset: After clicking search, results start from page 1.
+    11. No Results Message: If no data matches the filters, a message prompts users to adjust their options. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This structure gives a clear view of how filters, pagination, and search functionality are implemented in the project.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
