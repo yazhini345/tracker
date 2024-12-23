@@ -59,7 +59,7 @@ const Parent = () => {
     }, []);
 
     const fetchData = useCallback(async () => {
-        const response = await fetch('http://localhost:3000/entries');
+        const response = await fetch('http://localhost:3001/entries');
         const data = await response.json();
         setNames(data);
         applyDefaultFilters(data); // Apply default filters right after fetching
